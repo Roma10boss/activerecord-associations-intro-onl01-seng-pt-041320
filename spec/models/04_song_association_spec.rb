@@ -1,4 +1,4 @@
-require_relative '../spec_helper'
+#require_relative '../spec_helper'
 
 describe 'Song Associations' do
   before do
